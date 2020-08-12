@@ -1,4 +1,11 @@
+# Ehsan :heart_eyes:
 ### Hi there 👋
+- 😄 I am Ehsan Souri
+- 💬 Student at Amirkabir University of Technololy. Studying computer engineering
+- :mobile_phone_off: Android developer
+- :computer: in love with Kotlin lang
+- :link: [Linkedin page](https://www.linkedin.com/in/ehsan-souri-271678192/)
+
 
 <!--
 **ehsansouri23/ehsansouri23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
