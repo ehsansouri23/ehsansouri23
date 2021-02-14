@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansouri23&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansouri23)
