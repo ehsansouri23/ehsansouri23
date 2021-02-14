@@ -10,7 +10,6 @@
 - 💬 Student at Amirkabir University of Technololy. Studying computer engineering
 - :mobile_phone_off: Android developer
 - :computer: in love with Kotlin lang
-- :link: [Linkedin page](https://www.linkedin.com/in/ehsan-souri-271678192/)
 
 
 <!--
