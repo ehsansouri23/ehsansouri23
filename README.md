@@ -1,10 +1,10 @@
 # Ehsan :heart_eyes:
 ### Hi there 👋
-<!--<p align="center">
-<img src="https://raw.githubusercontent.com/ehsansouri23/ehsansouri23/master/andorid-kotlin.gif"></img>
+<p align="center">
+<img src="https://raw.githubusercontent.com/ehsansouri23/ehsansouri23/master/andorid-kotlin.gif" width="50%" height="50%"></img>
 </p>
--->
-![gif](https://raw.githubusercontent.com/ehsansouri23/ehsansouri23/master/andorid-kotlin.gif)
+
+<!--![gif](https://raw.githubusercontent.com/ehsansouri23/ehsansouri23/master/andorid-kotlin.gif)-->
 
 - 😄 I am Ehsan Souri
 - 💬 Student at Amirkabir University of Technololy. Studying computer engineering
@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contact me
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehsansouri23@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-souri-271678192/)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansouri23&show_icons=true)
 
