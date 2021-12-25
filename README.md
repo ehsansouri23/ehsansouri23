@@ -7,7 +7,6 @@
 - 😄 I am Ehsan Souri
 - 📖: Student at Amirkabir University of Technololy. Studying Computer Engineering
 - 💻: Software Engineer
-- in love with Kotlin lang
 
 
 <!--
@@ -30,6 +29,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-souri-271678192/)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansouri23&show_icons=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansouri23)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsansouri23&show_icons=true&theme=monokai" />
+</p>
