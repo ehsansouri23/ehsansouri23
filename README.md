@@ -4,6 +4,9 @@
 
 <!--![gif](https://raw.githubusercontent.com/ehsansouri23/ehsansouri23/master/andorid-kotlin.gif)-->
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ehsansouri23/EhsanSouriResume?label=Resume&logo=github&style=for-the-badge)](https://github.com/ehsansouri23/EhsanSouriResume/releases/latest)
+
+
 - 😄 I am Ehsan Souri
 - 📖: Student at Amirkabir University of Technololy. Studying Computer Engineering
 - 💻: Software Engineer
